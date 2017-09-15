@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+	<Identification>
+		<Version Value="3.2.2.0"/>
+	</Identification>
+	<Properties>
+		<Property Name="projectFile" Value="poc1-msh-cancellation.debug.psc"/>
+		<Property Name="projectVersion" Value="0.9.3"/>
+		<Property Name="projectName" Value="poc1-msh-cancellation"/>
+		<Property Name="projectClient" Value="commerzfinanz"/>
+		<Property Name="licenceURL" Value=""/>
+		<Property Name="archiveFile" Value="poc1-msh-cancellation.zip"/>
+		<Property Name="validity" Value=""/>
+		<Property Name="cyphering" Value="0"/>
+		<Property Name="compression" Value="1"/>
+	</Properties>
+	<UpdatePackages>
+	</UpdatePackages>
+	<KeyNames Value="cb1c2625d57d5f1806373a3a8591beb4" Type="32771"/>
+	<KeyContent Value="5220bd89979d5bccad64beb16ae636b7" Type="32771"/>
+	<KeyProps Value="b8caa56fa05c9ca8e8e6ffbedc207e1e" Type="32771"/>
+</doc>
