@@ -1,0 +1,330 @@
+{
+	"countries": [{
+		"code": "DE",
+		"email": "service@esprit.de",
+		"languages": [{
+			"code": "de",
+			"mailframe": "DE Mailframe",
+			"template_ntl": "DE102.txt",
+			"template_kkpp": "DE207.txt"
+		}]
+	}, {
+		"code": "DT",
+		"email": "service@esprit.de",
+		"languages": [{
+			"code": "de",
+			"mailframe": "DE Mailframe",
+			"template_ntl": "DE102.txt",
+			"template_kkpp": "DE207.txt"
+		}]
+	}, {
+		"code": "AT",
+		"email": "service@esprit.at",
+		"languages": [{
+			"code": "de",
+			"mailframe": "AT Mailframe",
+			"template_ntl": "AT102.txt",
+			"template_kkpp": "AT207.txt"
+		}]
+	}, {
+		"code": "CH",
+		"email": "info@espritshop.ch",
+		"languages": [{
+			"code": "de",
+			"mailframe": "CH_DE Mailframe",
+			"template_ntl": "CH_DE102.txt",
+			"template_kkpp": "CH_DE207.txt"
+		}, {
+			"code": "fr",
+			"mailframe": "CH_FR Mailframe",
+			"template_ntl": "CH_FR102.txt",
+			"template_kkpp": "CH_FR207.txt"
+		}]
+	}, {
+		"code": "BE",
+		"email": "info@esprit.be",
+		"languages": [{
+			"code": "fr",
+			"mailframe": "BE_FR Maildrame",
+			"template_ntl": "BE_FR102.txt",
+			"template_kkpp": "BE_FR207.txt"
+		}, {
+			"code": "nl",
+			"mailframe": "BE_NL Mailframe",
+			"template_ntl": "BE_NL102.txt",
+			"template_kkpp": "BE_NL207.txt"
+		}]
+	}, {
+		"code": "NL",
+		"email": "info@esprit.nl",
+		"languages": [{
+			"code": "nl",
+			"mailframe": "NL Mailframe",
+			"template_ntl": "NL102.txt",
+			"template_kkpp": "NL207.txt"
+		}]
+	}, {
+		"code": "DK",
+		"email": "info@esprit.dk",
+		"languages": [{
+			"code": "dk",
+			"mailframe": "DK Mailframe",
+			"template_ntl": "DK102.txt",
+			"template_kkpp": "DK207.txt"
+		}]
+	}, {
+		"code": "SE",
+		"email": "service@esprit.se",
+		"languages": [{
+			"code": "sv",
+			"mailframe": "SE Mailframe",
+			"template_ntl": "SE102.txt",
+			"template_kkpp": "SE207.txt"
+		}]
+	}, {
+		"code": "FI",
+		"email": "service@esprit.fi",
+		"languages": [{
+			"code": "fi",
+			"mailframe": "FI Mailframe",
+			"template_ntl": "FI102.txt",
+			"template_kkpp": "FI207.txt"
+		}]
+	}, {
+		"code": "EU",
+		"email": "service@esprit.eu",
+		"languages": [{
+			"code": "en",
+			"mailframe": "EU Mailframe",
+			"template_ntl": "EU102.txt",
+			"template_kkpp": "EU207.txt"
+		}]
+	}, {
+		"code": "GB",
+		"email": "info@esprit.co.uk",
+		"languages": [{
+			"code": "en",
+			"mailframe": "UK Mailframe",
+			"template_ntl": "UK102.txt",
+			"template_kkpp": "UK207.txt"
+		}]
+	}, {
+		"code": "CZ",
+		"email": "service@esprit.cz",
+		"languages": [{
+			"code": "cs",
+			"mailframe": "CZ Mailframe",
+			"template_ntl": "CZ102.txt",
+			"template_kkpp": "CZ207.txt"
+		}]
+	}, {
+		"code": "PL",
+		"email": "service@espritshop.pl",
+		"languages": [{
+			"code": "pl",
+			"mailframe": "PL Mailframe",
+			"template_ntl": "PL102.txt",
+			"template_kkpp": "PL207.txt"
+		}]
+	}, {
+		"code": "WE",
+		"email": "info@esprit.be",
+		"languages": [{
+			"code": "fr",
+			"mailframe": "FR Mailframe",
+			"template_ntl": "WE102.txt",
+			"template_kkpp": "WE207.txt"
+		}]
+	}, {
+		"code": "DO",
+		"email": "info@esprit.be",
+		"languages": [{
+			"code": "fr",
+			"mailframe": "DO Mailframe",
+			"template_ntl": "DO102.txt",
+			"template_kkpp": "DO207.txt"
+		}]
+	}, {
+		"code": "DQ",
+		"email": "info@esprit.be",
+		"languages": [{
+			"code": "fr",
+			"mailframe": "DQ Mailframe",
+			"template_ntl": "DQ102.txt",
+			"template_kkpp": "DQ207.txt"
+		}]
+	}, {
+		"code": "WR",
+		"email": "info@esprit.be",
+		"languages": [{
+			"code": "fr",
+			"mailframe": "WR Mailframe",
+			"template_ntl": "WR102.txt",
+			"template_kkpp": "WR207.txt"
+		}]
+	}, {
+		"code": "LU",
+		"email": "info@esprit.be",
+		"languages": [{
+			"code": "fr",
+			"mailframe": "LU Mailframe",
+			"template_ntl": "LU102.txt",
+			"template_kkpp": "LU207.txt"
+		}]
+	}, {
+		"code": "ES",
+		"email": "service@esprit.es",
+		"languages": [{
+			"code": "es",
+			"mailframe": "ES Mailframe",
+			"template_ntl": "ES102.txt",
+			"template_kkpp": "ES207.txt"
+		}]
+	}, {
+		"code": "IT",
+		"email": "service@espritshop.it",
+		"languages": [{
+			"code": "it",
+			"mailframe": "IT Mailframe",
+			"template_ntl": "IT102.txt",
+			"template_kkpp": "IT207.txt"
+		}]
+	}, {
+		"code": "FR",
+		"email": "info@esprit.fr",
+		"languages": [{
+			"code": "fr",
+			"mailframe": "FR Mailframe",
+			"template_ntl": "FR102.txt",
+			"template_kkpp": "FR207.txt"
+		}]
+	}],
+	"languages": [{
+		"code": "de",
+		"template_kkpp": "```DE207",
+		"template_ntl": "```DE102",
+		"payment_kk": "Ihrer Kreditkarte",
+		"payment_pp": "Ihrem Paypal-Konto",
+		"subject": "Ihre Bestellung ",
+		"salutation_f": "Liebe",
+		"salutation_m": "Lieber",
+		"gender_f": "Frau",
+		"gender_m": "Herr"
+	}, {
+		"code": "fr",
+		"template_kkpp": "```FR207",
+		"template_ntl": "```FR102",
+		"payment_kk": "votre carte de crédit",
+		"payment_pp": "votre compte PayPal",
+		"subject": "Votre commande ",
+		"salutation_f": "Chère",
+		"salutation_m": "Cher",
+		"gender_f": "Mme|Mlle",
+		"gender_m": "Mr|M"
+	}, {
+		"code": "nl",
+		"template_kkpp": "```NL207",
+		"template_ntl": "```NL102",
+		"payment_kk": "creditcard",
+		"payment_pp": "uw PaypPal-rekening",
+		"subject": "Bestelling ",
+		"salutation_f": "Beste",
+		"salutation_m": "Beste",
+		"gender_f": "Mevr.",
+		"gender_m": "Dhr."
+	}, {
+		"code": "dk",
+		"template_kkpp": "```DK207",
+		"template_ntl": "```DK102",
+		"payment_kk": "dit kreditkort",
+		"payment_pp": "din PayPal-konto",
+		"subject": "Bestilling ",
+		"salutation_f": "Kære",
+		"salutation_m": "Kære",
+		"gender_f": "Fr.",
+		"gender_m": "Hr."
+	}, {
+		"code": "sv",
+		"template_kkpp": "```SE207",
+		"template_ntl": "```SE102",
+		"payment_kk": "ditt kreditkort",
+		"payment_pp": "din PayPal-konto",
+		"subject": "Beställning",
+		"salutation_f": "Bästa",
+		"salutation_m": "Bästa",
+		"gender_f": "Frau",
+		"gender_m": "Herr"
+	}, {
+		"code": "cs",
+		"template_kkpp": "```CZ207",
+		"template_ntl": "```CZ102",
+		"payment_kk": "Vasi kreditni karty",
+		"payment_pp": "Vaseho uctu PayPal",
+		"subject": "Beställning ",
+		"salutation_f": "Vážená paní",
+		"salutation_m": "Vážený pane",
+		"gender_f": "Paní",
+		"gender_m": "Pán",
+		"could_f": "mohla",
+		"could_m": "mohla",
+		"paid_f": "zaplatila",
+		"paid_m": "zaplatil",
+		"entred_f": "zadala",
+		"entred_m": "zadal"
+	}, {
+		"code": "fi",
+		"template_kkpp": "```FI207",
+		"template_ntl": "```FI102",
+		"payment_kk": "luottokortiltasi",
+		"payment_pp": "PayPal-tilitäsi",
+		"subject": "Tilaus ",
+		"salutation_f": "Hyvä",
+		"salutation_m": "Hyvä",
+		"gender_f": "Mrs",
+		"gender_m": "Mrs"
+	}, {
+		"code": "pl",
+		"template_kkpp": "```PL207",
+		"template_ntl": "```PL102",
+		"payment_kk": "Twoja karta kredytowa",
+		"payment_pp": "Twoje konto PayPal",
+		"subject": "Zamówienie ",
+		"salutation_f": "Droga",
+		"salutation_m": "Drogi",
+		"gender_f": "Paní",
+		"gender_m": "Pan"
+	}, {
+		"code": "en",
+		"template_kkpp": "```GB207",
+		"template_ntl": "```GB102",
+		"payment_kk": "your credit card",
+		"payment_pp": "PayPal account",
+		"subject": "Order ",
+		"salutation_f": "Dear",
+		"salutation_m": "Dear",
+		"gender_f": "Ms.",
+		"gender_m": "Mr."
+	}, {
+		"code": "es",
+		"template_kkpp": "```ES207",
+		"template_ntl": "```ES102",
+		"payment_kk": "tu tarieta de crédito",
+		"payment_pp": "tu cuenta de PayPal",
+		"subject": "Pedido ",
+		"salutation_f": "Estimado",
+		"salutation_m": "Estimada",
+		"gender_f": "Señora",
+		"gender_m": "Señor"
+	}, {
+		"code": "it",
+		"template_kkpp": "```IT207",
+		"template_ntl": "```IT102",
+		"payment_kk": "sulla sua carta di credito",
+		"payment_pp": "sul suo conto PayPal",
+		"subject": "Ordine ",
+		"salutation_f": "Cara",
+		"salutation_m": "Caro",
+		"gender_f": "Signora",
+		"gender_m": "Signor"
+	}]
+}
